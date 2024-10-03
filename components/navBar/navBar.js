@@ -10,5 +10,6 @@ let h2 = document.createElement('h2');
 h2.innerText = "fogel";
 navBarDiv.appendChild(h2);
 
+
 // Exportar navBarDiv
 export { navBarDiv };
